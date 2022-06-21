@@ -4,7 +4,7 @@ Moving point
 Function:               Draws a point at the centre of the screen, its position changes in accordance with user input (via the joystick).
 Circuit Schematic No.:  9
 Required Libraries:     Joystick : https://github.com/ELECXJEL2645/Joystick
-                        N5110
+                        N5110    : https://github.com/ELECXJEL2645/N5110
 
 Authored by:            Andrew Knowles
 Date:                   2021
