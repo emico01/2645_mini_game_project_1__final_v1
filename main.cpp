@@ -30,7 +30,6 @@ DigitalIn joystick_button(PC_10);
 InterruptIn pause_button(PC_11);
 PwmOut buzzer(PA_15);
 
-//emico leon 22:18
 
 //#####################
 //Initialisation variables
