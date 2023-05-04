@@ -1,5 +1,5 @@
-Moving point
-============
+Point_Control_Via_Joystick
+==========================
 
 Function:               Draws a point at the centre of the screen, its position changes in accordance with user input (via the joystick).
 Circuit Schematic No.:  9        : https://github.com/ELECXJEL2645/Circuit_Schematics
